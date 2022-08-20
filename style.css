@@ -2,3 +2,9 @@ img {
     width: 180px;
     height: auto;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
