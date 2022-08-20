@@ -16,3 +16,19 @@ body {
     background-color: #1F2937;
 }
 
+.first_row-box div, .first_row-box a {
+    color: white;
+}
+
+.first_row-box a {
+    text-decoration: none;
+    margin: 10px;
+}
+
+.first_row-box div {
+    margin-left: 30px;
+}
+
+.first_row-box .first_link {
+    margin-left: auto;
+}
