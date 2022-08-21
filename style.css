@@ -12,21 +12,33 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    height: 50px;
     background-color: #1F2937;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 150px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
 }
 
 .first_row-box div, .first_row-box a {
     color: white;
+    white-space: nowrap;
 }
 
 .first_row-box a {
     text-decoration: none;
     margin: 10px;
+    font-size: 18px;
+    color: #E5E7EB
 }
 
 .first_row-box div {
-    margin-left: 30px;
+    margin: 10px;
+    margin-right: 20px;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 600;
 }
 
 .first_row-box .first_link {
