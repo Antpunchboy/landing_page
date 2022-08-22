@@ -97,7 +97,7 @@ body {
     border-style: none;
     margin: 10px;
     margin-top: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 105px;
 }
 
 .second_row_right_column {
@@ -109,7 +109,18 @@ body {
     margin: 10px;
     width: 500px;
     height: 250px;
+    margin-bottom: 110px;
 }
 
+.third_row-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 125px;
+}
 
-
+.third_row-box div {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
