@@ -2,9 +2,40 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-@media (max-width:590px) {
-    body {
-        zoom: 55%;
+/* 
+steps for responsiveness:
+1)make website shrink nicely(smooth and centred)
+2)add media queries for different device dimensions
+  if needed
+*/
+
+@media (max-width: 2560px) {
+    * {
+        zoom: 120%;
+    }
+}
+
+@media (max-width: 1440px) {
+    * {
+        zoom: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    * {
+        zoom: 95%;
+    }
+}
+
+@media (max-width: 425px) {
+    * {
+        zoom: 90%;
+    }
+}
+
+@media (max-width: 375px) {
+    * {
+        zoom: 85%;
     }
 }
 
