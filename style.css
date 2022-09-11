@@ -6,7 +6,9 @@
 steps for responsiveness:
 1)make website shrink nicely(smooth and centred)
 2)add media queries for different device dimensions
-  if needed
+if needed
+3)do one final shrink test once complete, using 
+dimensions mode in devtool
 */
 
 @media (max-width: 2560px) {
@@ -27,7 +29,7 @@ steps for responsiveness:
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 470px) {
     * {
         zoom: 90%;
     }
