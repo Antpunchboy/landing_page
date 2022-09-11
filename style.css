@@ -17,7 +17,7 @@ dimensions mode in devtool
     }
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 1630px) {
     * {
         zoom: 100%;
     }
