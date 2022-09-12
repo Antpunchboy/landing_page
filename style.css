@@ -57,7 +57,8 @@ body {
 }
 
 html {
-    overflow-x: hidden
+    overflow-x: hidden;
+    background-color: #1F2937;
 }
 
 .first_row-box {
@@ -184,6 +185,7 @@ html {
     align-items: center;
     padding: 45px;
     margin-bottom: -10px;
+    background-color: white;
 }
 
 .third_row-box div {
@@ -198,6 +200,9 @@ html {
     justify-content: center;
     align-items: center;
     flex-flow: row wrap;
+    background-color: white;
+    margin-bottom: -46px;
+    padding-bottom: 46px;
 }
 
 .fourth_row-box img {
@@ -234,6 +239,7 @@ html {
     font-style: light italic;
     color: #1F2937;
     margin-top: 45px;
+    margin-bottom: -1px;
     padding-top: 130px;
     padding-bottom: 130px;
 }
@@ -251,6 +257,7 @@ html {
     align-items: center;
     min-width: 200px;
     padding-right: 10px;
+    margin-bottom: -1px;
 }
 
 .seventh_row-box div {
@@ -272,6 +279,7 @@ html {
     align-items: center;
     padding-top: 110px;
     padding-bottom: 110px;
+    background-color: white;
 }
 
 .eight_inner-box {
