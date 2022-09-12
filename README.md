@@ -7,4 +7,4 @@ using html and css (with flexboxes)
 
 will learn responsive design and semantic html in future lesson.
 
-but i have made the website responsive by researching on media queries and smooth flex design on css
+but i have made the website responsive by researching on media queries and smooth flex design on css (but still an improper method for responsiveness as zoom does not work properly as the page accommodates for zoom and resizes)
