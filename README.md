@@ -1,5 +1,5 @@
 # landing_page
-3rd project
+odin project 3
 
 Odin project: create a sample landing page from scratch
 
